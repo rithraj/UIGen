@@ -1,0 +1,9 @@
+{
+  "Button": {
+    "html": "<button>{text}</button>",
+    "react": {
+      "import": "",
+      "usage": "<button onClick={onClick}>{text}</button>"
+    }
+  }
+}
